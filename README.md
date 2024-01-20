@@ -11,7 +11,7 @@ But also provides and engaging entertaining experience for children, offering a 
 ### ✨Description
 There are 7 distinct game-based assessments designed to evaluate the intellectual abilities of children.
 1. Block design - perceptual reasoning index
-  <img src="https://github.com/younw00/IntelliKare/assets/107108235/6432ea12-eed7-43bf-8d56-acfb3cee7225">
+  <img src="https://github.com/younw00/IntelliKare/assets/107108235/75cdf43c-fa8c-487c-936b-ff0d1c27e2be">
   
 2. Similarity - verbal abstract reasoning
   <img src="https://github.com/younw00/IntelliKare/assets/107108235/c2a00288-5392-4315-80e4-8d47027b18f7">
